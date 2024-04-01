@@ -1,0 +1,7 @@
+Employee
+Create: ok
+traer todos los empleados: ok
+traer un empleado: ok
+cambio de stado: ok
+update empleado: ok
+delete empleado: ok
